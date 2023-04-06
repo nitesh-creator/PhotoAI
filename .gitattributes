@@ -1,3 +1,4 @@
 path/to/large-file.ext filter=lfs diff=lfs merge=lfs -text
 C:/Users/niteshiit/Downloads/isnet.pth filter=lfs diff=lfs merge=lfs -text
 C://Users//niteshiit//Downloads//isnet.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
